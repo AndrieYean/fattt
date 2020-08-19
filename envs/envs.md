@@ -55,7 +55,7 @@ sudo apt-get upgrade
 - one_gadget
 - libc-database
 
-pwn_init.sh
+以上均可使用pwn_init.sh完成
 
 ```bash
 #!/bin/bash
@@ -108,4 +108,7 @@ echo "========================================="
 
 ```
 
+## 小工具
+安装libcsearcher ( 下面是链接，自己摸索，学会自己装工具很重要 ):  
+> https://github.com/lieanu/LibcSearcher
 
