@@ -16,3 +16,10 @@ https://github.com/AndrieYean/fattt/blob/master/envs/envs.md
 视频学习：  
 https://www.bilibili.com/video/BV1Af4y1U7cP  
 https://www.bilibili.com/video/BV1uf4y1U7g3
+
+## 8.21-8.22  ret2text
+本仓库：  
+https://github.com/AndrieYean/fattt/blob/master/ret2text/ret2text.md  
+视频学习：  
+https://www.bilibili.com/video/BV1Yi4y1s7y8
+https://www.bilibili.com/video/BV1Xi4y147Sv

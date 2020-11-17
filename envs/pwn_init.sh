@@ -25,6 +25,7 @@ cd pwndbg
 git clone https://github.com/longld/peda.git ~/peda
 # echo "source ~/peda/peda.py" >> ~/.gdbinit
 echo "source ~/pwndbg/gdbinit.py" > ~/.gdbinit
+# echo "source ~/.gdbinit-gef.py" > ~/.gdbinit
 # download the libc source to current directory(you can use gdb with this example command: directory ~/glibc-2.24/malloc/)
 sudo apt-get source libc6-dev
 # install pwntools
